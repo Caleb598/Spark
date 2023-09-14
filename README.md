@@ -1,2 +1,2 @@
-# Rayway
-Rayway is a real-time ray tracer. 
+# Spark
+Spark is a real-time ray tracer. 
