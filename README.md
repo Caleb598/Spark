@@ -1,2 +1,2 @@
-# Doodleplex
-Advanced 2D animation technology
+# Photoray
+Photoray is a real-time ray tracer. 
