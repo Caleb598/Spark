@@ -1,2 +1,2 @@
-# Photoray
-Photoray is a real-time ray tracer. 
+# Rayway
+Rayway is a real-time ray tracer. 
